@@ -1,0 +1,18 @@
+[
+    {
+        "id": 1,
+        "name": "Store Admin",
+        "email": "admin@opulence.test",
+        "password_hash": "$2y$10$LzypAwEevKkkdtB8peR6XOz.kq6pJbf3Nw0obg6kWCxf6eR1r4x16",
+        "is_admin": true,
+        "created_at": "2026-07-31T00:00:00+00:00"
+    },
+    {
+        "id": 2,
+        "name": "Prasun Thapa",
+        "email": "prasun@gmail.com",
+        "password_hash": "$2y$10$hFvcLLYFcUSbbrgnk9orAOTwKtqUtL0ySzm76LM9D2U.si9BiZadm",
+        "is_admin": false,
+        "created_at": "2026-07-31T14:47:37+02:00"
+    }
+]

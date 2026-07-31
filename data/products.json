@@ -1,0 +1,46 @@
+[
+  {
+    "id": 1,
+    "slug": "minimalist-leather-backpack",
+    "name": "Minimalist Leather Backpack",
+    "short_description": "A refined backpack for everyday carry.",
+    "description": "Premium leather, clean lines, and structured support for the modern commuter.",
+    "price": 199,
+    "tag": "Bestseller",
+    "image": "https://images.unsplash.com/photo-1512436991641-6745cdb1723f?auto=format&fit=crop&w=1200&q=80",
+    "is_active": true
+  },
+  {
+    "id": 2,
+    "slug": "signature-travel-tote",
+    "name": "Signature Travel Tote",
+    "short_description": "Roomy design and refined detail for travel-ready style.",
+    "description": "Spacious interior, soft-touch handles, and a luxe silhouette built for daily journeys.",
+    "price": 219,
+    "tag": "New Drop",
+    "image": "https://images.unsplash.com/photo-1521334884684-d80222895322?auto=format&fit=crop&w=1200&q=80",
+    "is_active": true
+  },
+  {
+    "id": 3,
+    "slug": "camera-roll-crossbody",
+    "name": "Camera Roll Crossbody",
+    "short_description": "A compact crossbody for essentials and style.",
+    "description": "Structured shape and premium hardware keep your essentials secure while maintaining a polished finish.",
+    "price": 149,
+    "tag": "Featured",
+    "image": "https://images.unsplash.com/photo-1542291026-7eec264c27ff?auto=format&fit=crop&w=1200&q=80",
+    "is_active": true
+  },
+  {
+    "id": 4,
+    "slug": "carryall-weekender",
+    "name": "Carryall Weekender",
+    "short_description": "A premium weekender built for effortless travel.",
+    "description": "Durable structure, tonal hardware, and refined compartments for a polished carry experience.",
+    "price": 249,
+    "tag": "Featured",
+    "image": "https://images.unsplash.com/photo-1491553895911-0055eca6402d?auto=format&fit=crop&w=1200&q=80",
+    "is_active": true
+  }
+]
